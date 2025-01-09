@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['winnermessage_0',['winnerMessage',['../tic_tac_toe_8cpp.html#a2420ba152bd924e064eb32c03bc18f10',1,'ticTacToe.cpp']]]
+  ['readme_2emd_0',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
+  ['repository_1',['Cloning the Repository',['../md__r_e_a_d_m_e.html#autotoc_md6',1,'']]]
 ];

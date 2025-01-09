@@ -24,7 +24,16 @@
 */
 var NAVTREE =
 [
-  [ "Word Search", "index.html", [
+  [ "Tic Tac Toe", "index.html", [
+    [ "Tic Tac Toe", "md__r_e_a_d_m_e.html", [
+      [ "Overview", "md__r_e_a_d_m_e.html#autotoc_md1", null ],
+      [ "Documentation", "md__r_e_a_d_m_e.html#autotoc_md2", null ],
+      [ "Technologies Used", "md__r_e_a_d_m_e.html#autotoc_md3", null ],
+      [ "Features", "md__r_e_a_d_m_e.html#autotoc_md4", null ],
+      [ "Usage", "md__r_e_a_d_m_e.html#autotoc_md5", [
+        [ "Cloning the Repository", "md__r_e_a_d_m_e.html#autotoc_md6", null ]
+      ] ]
+    ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
